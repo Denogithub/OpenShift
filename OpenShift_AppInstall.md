@@ -10,3 +10,8 @@ The Openshift Application install, is basically using the web interface to insta
 ![OpenShift_AppInstall_8](https://github.com/user-attachments/assets/11e48dce-440b-41f4-ba94-a094e561a18c)
 ![OpenShift_AppInstall_9](https://github.com/user-attachments/assets/019b38b0-e8dc-48be-905a-da2f81f5f7f9)
 ![OpenShift_AppInstall_10](https://github.com/user-attachments/assets/3ac70a9b-eb42-43d6-8693-2c21c4aa608f)
+![OpenShift_AppInstall_11](https://github.com/user-attachments/assets/1d05a57e-5a14-4505-b32f-56c128f4db26)
+![OpenShift_AppInstall_12](https://github.com/user-attachments/assets/ba2e2cda-1b5d-4b56-94a7-4bb3673ad950)
+![OpenShift_AppInstall_13](https://github.com/user-attachments/assets/ec318ca2-9c43-42f4-856f-9888ea5f67a6)
+![OpenShift_AppInstall_14](https://github.com/user-attachments/assets/33466c85-1e77-49fe-9cdc-773d166f5d94)
+![OpenShift_AppInstall_15](https://github.com/user-attachments/assets/402470a7-5fe4-4e7c-bc6e-98205da36ba8)
