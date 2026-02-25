@@ -14,3 +14,5 @@
 ![App_Scale_Using_WebConsole_09](https://github.com/user-attachments/assets/087f169c-514e-4746-bffc-4b922a2d771d)
 ![App_Scale_Using_WebConsole_10](https://github.com/user-attachments/assets/99003709-c0d8-4b9a-8992-60ec08c254ff)
 ![App_Scale_Using_WebConsole_11](https://github.com/user-attachments/assets/dfde8e12-581f-4304-873a-b877e0010dcb)
+![App_Scale_Using_WebConsole_12](https://github.com/user-attachments/assets/5f4a6eee-c532-4790-901d-b81fd802da5c)
+![App_Scale_Using_WebConsole_13](https://github.com/user-attachments/assets/b3fcc1b7-466a-4af5-acd9-360b393d3269)
