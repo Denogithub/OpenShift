@@ -23,3 +23,6 @@
 ![Database_OpenShift_OC_CLI_18](https://github.com/user-attachments/assets/611fbd5c-476c-4275-bc07-fa6b13d3e421)
 ![Database_OpenShift_OC_CLI_19](https://github.com/user-attachments/assets/a27bed3e-1fb5-4786-a6b6-1b89f327dac6)
 ![Database_OpenShift_OC_CLI_20](https://github.com/user-attachments/assets/c68001d0-3590-4f92-9a05-64f2e448aa15)
+![Database_OpenShift_OC_CLI_21](https://github.com/user-attachments/assets/aa9105a6-8b48-4652-913f-9ac14c843139)
+![Database_OpenShift_OC_CLI_22](https://github.com/user-attachments/assets/f575a0d0-d849-41c4-b1b8-80b0a82f6f3d)
+![Database_OpenShift_OC_CLI_23](https://github.com/user-attachments/assets/9535fe38-b6fb-4367-95ef-f6f3e794d2aa)
